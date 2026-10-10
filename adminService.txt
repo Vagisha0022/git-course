@@ -4,4 +4,6 @@ manage the db
 closing the connection
 
 change1
+<<<<<<< HEAD
 change2 in harsh's database
+
